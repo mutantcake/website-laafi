@@ -1,0 +1,37 @@
+@media screen and (max-width:710px) {
+    .s3{
+        flex-direction: column;
+        align-items: center;
+    }
+    .para5{
+        flex-direction: column;  
+    }
+    .s4{
+        flex-direction: column;
+        align-items: center; 
+    }
+    .para6{
+        flex-direction: column; 
+    
+    }
+    .para7{
+    display: none;
+        
+    }
+    .ima4{
+        display: none;
+    }
+    .s5{
+        flex-direction: column;
+        align-items: center; 
+    }
+    .para7{
+        flex-direction: column; 
+    
+    }
+    .para7{
+    display: none;
+        
+    }
+    
+}
